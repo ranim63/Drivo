@@ -4,10 +4,15 @@ Drivo is a mobile app that makes car rental fast, simple, and transparent. Users
 Car owners can list their vehicles and choose whether to provide a driver or let renters drive themselves. Drivo also partners with rental offices, ensuring a hassle-free experience for both owners and users.
 
 -Ranim Moustafa Hamed (UI/UX Design /Landing Page Development /Dashboard Design /Case Study)
+
 -Youssef Gadallah Mohamed (UI/UX Design /Landing Page Design /Mockup Design /Case Study) 
+
 -Alaa Anwar Abdelfattah (UI/UX Design /Dashboard Design /Case Study /Photoshop Poster)
+
 -Zena Mahmoud Hosny Elgamal (UI/UX Design /Dashboard Design /Case Study) 
+
 -Rehab Mohamed Mahmoud (UI/UX Design /Case Study /Photoshop Poster)
+
 -Gehad Ashraf Kamal (UI/UX Design /Case Study /Photoshop Poster)
 
 
